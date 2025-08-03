@@ -54,12 +54,12 @@ const ExperienceCard = ({
 const ExperienceSection = () => {
   const experiences = [
     {
-      icon: Network,
-      title: "Front End Developer",
-      company: "Zidio Development",
-      period: "2024, August - October",
+      icon: Layers,
+      title: "Frontend Developer Intern",
+      company: "IUS Digital Solutions",
+      period: "2025, June - Present",
       description:
-        "Contributed to the development of interactive web applications using React, Collaborated with a team to develope a job portal application.",
+        "Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs.",
     },
     {
       icon: Code2,
@@ -70,12 +70,12 @@ const ExperienceSection = () => {
         "Developed custom web applications using React and FIGMA, enhancing client experience through modern design principles.",
     },
     {
-      icon: Layers,
-      title: "Frontend Developer Intern",
-      company: "IUS Digital Solutions",
-      period: "2025, June - Present",
+      icon: Network,
+      title: "Front End Developer",
+      company: "Zidio Development",
+      period: "2024, August - October",
       description:
-        "Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs.",
+        "Contributed to the development of interactive web applications using React, Collaborated with a team to develope a job portal application.",
     },
   ];
 
